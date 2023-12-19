@@ -1,0 +1,41 @@
+{"ndcPropertyList":
+    {"ndcProperty":[
+        {   "ndcItem":"00378451793",
+            "ndc9":"0378-4517",
+            "ndc10":"0378-4517-93",
+            "rxcui":"597987",
+            "splSetIdItem":"4be76756-4114-4d50-a36c-fd410f6c773d",
+            "packagingList":{
+                "packaging":["30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC (0378-4517-93)"]
+            },
+            "propertyConceptList":{
+                "propertyConcept":[
+                {"propName":"ANDA","propValue":"ANDA200465"},
+                {"propName":"COLORTEXT","propValue":"BLUE"},
+                {"propName":"COLOR","propValue":"C48333"},
+                {"propName":"DM_SPL_ID","propValue":"633412"},
+                {"propName":"IMPRINT_CODE","propValue":"M;AA8"},
+                {"propName":"LABELER","propValue":"Mylan Pharmaceuticals Inc."},
+                {"propName":"LABEL_TYPE","propValue":"HUMAN PRESCRIPTION DRUG"},
+                {"propName":"MARKETING_CATEGORY","propValue":"ANDA"},
+                {"propName":"MARKETING_EFFECTIVE_TIME_LOW","propValue":"20141106"},
+                {"propName":"MARKETING_STATUS","propValue":"ACTIVE"},
+                {"propName":"SCORE","propValue":"1"},
+                {"propName":"SHAPETEXT","propValue":"barrel shaped"},
+                {"propName":"SHAPE","propValue":"C48345"},
+                {"propName":"SIZE","propValue":"11 mm"}]
+            },
+            "source":"Hybrid"
+        }, 
+        {   "ndcItem":"00378451793",
+            "ndc9":"0378-4517",
+            "ndc10":"0378-4517-93",
+            "rxcui":"597987",
+            "splSetIdItem":"4be76756-4114-4d50-a36c-fd410f6c773d",
+            "packagingList":{
+                "packaging":["30 TABLET, FILM COATED in 1 BOTTLE, PLASTIC (0378-4517-93)"]
+            },
+            "propertyConceptList":{}
+        }
+    ]}
+}
